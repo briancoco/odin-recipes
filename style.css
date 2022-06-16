@@ -1,0 +1,30 @@
+.recipes {
+    color: hotpink;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.title {
+    background-color: hotpink;
+    font-family: "Times New Roman", sans-serif;
+
+}
+
+.hell {
+    font-weight: bold;
+}
+
+.snoop {
+    width: 300px;
+    height: auto;
+}
+
+.sr {
+    background-color: darkred;
+    color: darkgoldenrod;
+}
+
+.back {
+    font-weight: bold;
+    font-size: 20px;
+}
